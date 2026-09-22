@@ -54,7 +54,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 logging.basicConfig(level=logging.INFO)
 log = logging.getLogger("mafia")
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8957686843:AAG7Ahbb7kDStd2auqKDbPRaZwt9EUZxobE")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8979267847:AAGdVbnLEK8NPtpIDMj2cTRwpqDluUq-Xxw")
 
 NIGHT_SECONDS = 45
 DAY_DISCUSS_SECONDS = 60
